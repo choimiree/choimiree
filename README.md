@@ -10,20 +10,17 @@
 - [study-til](https://github.com/choimiree/study-til): 매일 배운 내용 정리
 - [study-algorithm](https://github.com/choimiree/study-algorithm): 알고리즘 문제 풀이
 
-## 🤖 Data & AI Projects
+## 🤖 AI Projects
 
-- [project-data-yanolja](https://github.com/choimiree/project-datayanolja): 데이터 분석 프로젝트
+
+## 📁 Team Projects
+
+- [project-ibm-hackathon](https://github.com/choimiree/project-ibm-hackathon): IBM 해커톤 프로젝트
+- [project-dataitgirls-team_3](https://github.com/choimiree/project-dataitgirls-team_3): 데잇걸즈 3팀 결과물
+- [project-datayanolja](https://github.com/choimiree/project-datayanolja): 데이터 분석 프로젝트
 - [project-covid-hotplace](https://github.com/choimiree/project-covid-hotplace): 코로나 핫플 분석 프로젝트
-- [project-itgirls-4th](https://github.com/choimiree/project-dataitgirls4th): 데잇걸즈 결과물
+- [project-ssafy](https://github.com/choimiree/project-ssafy): ssafy 결과물
 
-## 🧪 Hackathons
-
-- [hackathon-ibm-2020](https://github.com/choimiree/project-hackathon-ibm-2020): IBM 해커톤 프로젝트
-
-## 📁 Portfolio & Team Projects
-
-- [portfolio-main](https://github.com/choimiree/portfolio-main): 자기소개 및 대표 프로젝트
-- [project-team3-uiux](https://github.com/choimiree/project-dataitgirls-team3): 데잇걸즈 3팀 결과물
 
 ---
 
