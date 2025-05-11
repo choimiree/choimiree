@@ -8,7 +8,6 @@
 ## 📚 Study Notes
 
 - [study-til](https://github.com/choimiree/study-til): 매일 배운 내용 정리
-- [study-web-dev](https://github.com/choimiree/study-web-dev): 웹 개발 공부
 - [study-algorithm](https://github.com/choimiree/study-algorithm): 알고리즘 문제 풀이
 
 ## 🤖 Data & AI Projects
